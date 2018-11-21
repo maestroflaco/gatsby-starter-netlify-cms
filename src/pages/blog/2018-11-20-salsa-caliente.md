@@ -8,6 +8,6 @@ tags:
 ---
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_6sfW_T6ac?start=13" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="474" height="267" src="https://www.youtube.com/embed/U_6sfW_T6ac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Don't miss the next Salsa Caliente at the Painted bride Art Center Saturday, February 11 2017...The Valentine's Edition is gonna be hot, hot, HOT!
